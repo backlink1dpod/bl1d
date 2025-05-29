@@ -1,0 +1,10 @@
+baseURL = "https://bl1d.pages.dev/" # Cập nhật sau khi có tên miền
+languageCode = "vi-VN"
+title = "Blog Backlink 1D"
+theme = "PaperMod"
+
+[params]
+  description = "Blog chia sẻ kiến thức và thông tin hữu ích để xây dựng backlink chất lượng."
+  keywords = ["backlink", "SEO", "casino", "backlink1d"]
+  ShowReadingTime = true
+  ShowShareButtons = true
