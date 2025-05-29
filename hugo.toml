@@ -8,3 +8,8 @@ theme = "PaperMod"
   keywords = ["backlink", "SEO", "casino", "backlink1d"]
   ShowReadingTime = true
   ShowShareButtons = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
