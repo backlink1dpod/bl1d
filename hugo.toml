@@ -18,4 +18,4 @@ enableRobotsTXT = true
     notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "RobotsTXT"]
+home = ["HTML", "RSS", "Robots"]
