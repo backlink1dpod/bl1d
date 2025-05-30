@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bl1d.pages.dev/sitemap.xml
-https://bl1d-8gb6t.ondigitalocean.app/sitemap.xml
