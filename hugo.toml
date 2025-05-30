@@ -9,5 +9,11 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowShareButtons = true
 
+[outputFormats.RobotsTXT]
+mediaType = "text/plain"
+baseName = "robots"
+isPlainText = true
+notAlternative = true
+
 [outputs]
 home = ["HTML", "RSS", "RobotsTXT"]
