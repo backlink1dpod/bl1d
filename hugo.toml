@@ -11,11 +11,11 @@ enableRobotsTXT = true
   ShowShareButtons = true
 
 [outputFormats]
-  [outputFormats.Robots]
+  [outputFormats.robotstxt]
     mediaType = "text/plain"
     baseName = "robots"
     isPlainText = true
     notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "Robots"]
+home = ["HTML", "RSS", "robotstxt"]
