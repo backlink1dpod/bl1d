@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://backlink1dpod.github.io/bl1d/sitemap.xml
