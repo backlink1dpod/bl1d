@@ -10,5 +10,12 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowShareButtons = true
 
+[outputFormats]
+  [outputFormats.Robots]
+    mediaType = "text/plain"
+    baseName = "robots"
+    isPlainText = true
+    notAlternative = true
+
 [outputs]
 home = ["HTML", "RSS", "RobotsTXT"]
