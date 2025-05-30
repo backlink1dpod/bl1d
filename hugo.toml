@@ -1,4 +1,4 @@
-baseURL = "https://bl1d.pages.dev/" # Cập nhật sau khi có tên miền
+baseURL = "" # Cập nhật sau khi có tên miền
 languageCode = "vi-VN"
 title = "Blog Backlink 1D"
 theme = "PaperMod"
