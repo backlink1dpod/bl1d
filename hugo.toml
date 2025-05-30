@@ -9,8 +9,6 @@ enableRobotsTXT = true
   keywords = ["backlink", "SEO", "casino", "backlink1d"]
   ShowReadingTime = true
   ShowShareButtons = true
-  ShowBreadCrumbs: true
-
 
 [outputs]
 home = ["HTML", "RSS", "RobotsTXT"]
