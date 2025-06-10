@@ -9,7 +9,6 @@ categories: ["Shacman"]
 ---
 ![alt](https://res.cloudinary.com/dfvo4jdsw/image/upload/v1749573632/banner-shacman-viet-nam-1_nvl79n.webp)
 
-# Shacman Việt Nam – Giải pháp vận tải tối ưu cho doanh nghiệp hiện đại
 
 ## Hành trình của một thương hiệu lớn đến từ Trung Quốc
 
