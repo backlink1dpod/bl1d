@@ -2,31 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Blog Backlink 1D</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Blog Backlink 1D</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>vi-VN</language>
-    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>88CLB</title>
+      <link>/categories/88clb/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/88clb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bet88</title>
+      <link>/categories/bet88/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/bet88/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Casino</title>
-      <link>//localhost:1313/categories/casino/</link>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/casino/</guid>
+      <link>/categories/casino/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/casino/</guid>
       <description></description>
     </item>
     <item>
       <title>Nhà Cái</title>
-      <link>//localhost:1313/categories/nh%C3%A0-c%C3%A1i/</link>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/nh%C3%A0-c%C3%A1i/</guid>
+      <link>/categories/nh%C3%A0-c%C3%A1i/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/nh%C3%A0-c%C3%A1i/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rr88</title>
+      <link>/categories/rr88/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/rr88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shacman</title>
+      <link>/categories/shacman/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/shacman/</guid>
       <description></description>
     </item>
     <item>
       <title>TD88</title>
-      <link>//localhost:1313/categories/td88/</link>
+      <link>/categories/td88/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/td88/</guid>
+      <guid>/categories/td88/</guid>
       <description></description>
     </item>
   </channel>
