@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /tags/
+Disallow: /categories/
 
 Sitemap: https://backlink1dpod.github.io/bl1d/sitemap.xml
