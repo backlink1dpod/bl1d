@@ -7,7 +7,7 @@ tags: ["xx88"]
 categories: ["xx88", "Casino"]
 
 ---
-![alt](https://xx88.now/wp-content/uploads/2025/07/link-vao-trang-chu.webp)
+![alt](https://res.cloudinary.com/dfvo4jdsw/image/upload/v1752479897/xx88now_cgvets.jpg)
 
 
 ## Khám phá thế giới giải trí đỉnh cao cùng XX88 – Nền tảng casino trực tuyến hàng đầu tại Hà Nội
