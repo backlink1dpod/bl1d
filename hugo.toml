@@ -3,6 +3,11 @@ languageCode = "vi-VN"
 title = "Blog Backlink 1D"
 theme = "PaperMod"
 enableRobotsTXT = true
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
 
 [params]
   description = "Blog chia sẻ kiến thức và thông tin hữu ích để xây dựng backlink chất lượng."
