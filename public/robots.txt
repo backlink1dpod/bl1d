@@ -1,6 +1,3 @@
 User-agent: *
-Allow: /
-Disallow: /tags/
-Disallow: /categories/
-
+Disallow:
 Sitemap: /sitemap.xml
