@@ -72,4 +72,5 @@ Không khó hiểu khi XX88 ngày càng mở rộng được tệp người dùn
 
 Với hệ sinh thái game đa dạng, giao diện thân thiện, bảo mật an toàn và dịch vụ khách hàng chuyên nghiệp, XX88 đã và đang khẳng định vị thế của mình trong thị trường cá cược trực tuyến.
 
-Nếu bạn đang tìm kiếm một nền tảng đáng tin cậy để giải trí, thư giãn và thử vận may – XX88 chính là lựa chọn không nên bỏ qua. Hãy tự mình trải nghiệm và cảm nhận sự khác biệt mà một thương hiệu uy tín có thể mang lại. Website: [https://xx88ba.com/](https://xx88ba.com/)
+Nếu bạn đang tìm kiếm một nền tảng đáng tin cậy để giải trí, thư giãn và thử vận may – XX88 chính là lựa chọn không nên bỏ qua. Hãy tự mình trải nghiệm và cảm nhận sự khác biệt mà một thương hiệu uy tín có thể mang lại. 
+Website: [https://xx88ba.com/](https://xx88ba.com/)
