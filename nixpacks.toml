@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["hugo", "nodejs"]
+
+[phases.build]
+cmds = ["hugo --minify --baseURL=$HUGO_BASEURL"]
+
+[start]
+cmd = "npx serve public"
