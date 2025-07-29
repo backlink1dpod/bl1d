@@ -1,5 +1,5 @@
 # Sử dụng image chính thức của Hugo
-FROM klakegg/hugo:0.128.0-ext AS builder
+FROM klakegg/hugo:0.111.3-ext-ubuntu-onbuild AS builder
 
 # Thiết lập thư mục làm việc
 WORKDIR /app
