@@ -2,7 +2,6 @@ baseURL = "" # Cập nhật sau khi có tên miền
 languageCode = "vi-VN"
 title = "Blog Backlink 1D"
 theme = "PaperMod"
-uglyURLs = false
 enableRobotsTXT = true
 [sitemap]
   changeFreq = ''
