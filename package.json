@@ -1,0 +1,11 @@
+{
+  "name": "hugo-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "hugo --minify -b $HUGO_BASEURL",
+    "start": "npx serve -s public -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
