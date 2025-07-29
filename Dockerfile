@@ -1,4 +1,4 @@
-# Sử dụng image chính thức của Hugo
+# Sử dụng image Hugo hợp lệ
 FROM klakegg/hugo:0.134.0-ext AS builder
 
 # Thiết lập thư mục làm việc
@@ -11,7 +11,7 @@ COPY . .
 RUN hugo --minify -b $HUGO_BASEURL
 
 # Sử dụng image Nginx để phục vụ các tệp tĩnh
-FROM nginx:alpine
+FROM nginx:1.27.1-alpine
 COPY --from=builder /app/public /usr/share/nginx/html
 
 # Expose port 80
