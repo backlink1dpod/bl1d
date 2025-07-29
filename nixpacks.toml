@@ -5,4 +5,4 @@ nixPkgs = ["hugo", "nodejs"]
 cmds = ["hugo --minify --baseURL=$HUGO_BASEURL"]
 
 [start]
-cmd = "npx serve public"
+cmd = "npx serve public --listen $PORT"
