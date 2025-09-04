@@ -3,4 +3,4 @@ Allow: /
 Disallow: /tags/
 Disallow: /categories/
 
-Sitemap: /sitemap.xml
+Sitemap: //localhost:1313/sitemap.xml

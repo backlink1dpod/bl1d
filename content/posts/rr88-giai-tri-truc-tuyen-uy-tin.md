@@ -1,6 +1,6 @@
 ---
 title: "RR88 – Nền tảng giải trí trực tuyến uy tín và hiện đại"
-date: 2025-09-05
+date: 2025-09-05T00:00:00+07:00
 draft: false
 description: "Khám phá RR88 – nền tảng giải trí trực tuyến với công nghệ bảo mật tiên tiến, hệ thống minh bạch và trải nghiệm đa dạng cho người chơi quốc tế."
 tags: ["RR88"]

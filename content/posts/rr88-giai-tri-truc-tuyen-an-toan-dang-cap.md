@@ -1,6 +1,6 @@
 ---
 title: "RR88 – Giải trí trực tuyến an toàn và đẳng cấp"
-date: 2025-09-05
+date: 2025-09-05T00:00:00+07:00
 draft: false
 description: "RR88 mang đến giải trí trực tuyến an toàn, minh bạch với sản phẩm đa dạng, công nghệ tiên tiến và dịch vụ hỗ trợ chuẩn quốc tế cho người chơi."
 tags: ["RR88"]
