@@ -29,7 +29,7 @@ jobs:
           password: ${{ secrets.BUNNY_PASSWORD }}
           protocol: ftp
           port: 21
-          local-dir: ./public
+          local-dir: ./public/
           server-dir: /bl1d/
           log-level: minimal
           state-name: .ftp-deploy-sync-state.json
