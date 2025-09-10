@@ -16,12 +16,12 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.146.0' # chọn version phù hợp
+          hugo-version: '0.146.0'
 
       - name: Build Hugo
         run: hugo --minify
 
-      - name: Deploy to Bunny Storage via FTP
+      - name: Deploy to Bunny Storage (incremental sync)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: sg.storage.bunnycdn.com
@@ -31,4 +31,5 @@ jobs:
           port: 21
           local-dir: ./public
           server-dir: /bl1d/
-          log-level: verbose
+          log-level: minimal
+          state-name: .ftp-deploy-sync-state.json
