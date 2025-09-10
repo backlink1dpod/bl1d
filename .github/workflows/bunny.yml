@@ -33,3 +33,4 @@ jobs:
           server-dir: /bl1d/
           log-level: minimal
           state-name: .ftp-deploy-sync-state.json
+
