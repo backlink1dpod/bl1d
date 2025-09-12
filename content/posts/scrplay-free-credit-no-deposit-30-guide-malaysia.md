@@ -7,7 +7,7 @@ tags: ["SCRplay"]
 categories: ["SCRplay"]
 
 ---
-
+![alt](https://scrplay8.com/media/6bf02307836862aa8d97c.png)
 
 ## SCRplay Free Credit No Deposit 30: Your Ultimate Guide to Risk-Free Gaming
 
