@@ -7,7 +7,6 @@ tags: ["SCRplay"]
 categories: ["SCRplay"]
 
 ---
-![alt](https://mm88rd.com/wp-content/uploads/2025/09/mm88rd.com-banner.webp)
 
 
 ## SCRplay Free Credit No Deposit 30: Your Ultimate Guide to Risk-Free Gaming
