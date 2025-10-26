@@ -1,8 +1,8 @@
 ---
-title: "QQ88 và triết lý "Dễ chơi - Dễ phát tài" thực tế"
+title: "QQ88 và triết lý 'Dễ chơi - Dễ phát tài' thực tế"
 date: 2025-10-26T00:00:00+07:00
 draft: false
-description: "Phân tích triết lý "Dễ chơi - Dễ phát tài" của QQ88. Khám phá cách giao diện trực quan, công nghệ bảo mật và hệ thống game RTP cao biến slogan này thành trải nghiệm thực tế."
+description: "Phân tích triết lý 'Dễ chơi - Dễ phát tài' của QQ88. Khám phá cách giao diện trực quan, công nghệ bảo mật và hệ thống game RTP cao biến slogan này thành trải nghiệm thực tế."
 tags: ["QQ88"]
 categories: ["QQ88"]
 
