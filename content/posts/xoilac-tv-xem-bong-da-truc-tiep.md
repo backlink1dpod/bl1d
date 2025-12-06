@@ -1,6 +1,6 @@
 ---
-title: "Xoilac TV: Xem Bóng Đá Trực Tiếp Tốc Độ Cao Và Miễn Phí"
-date: 2025-12-6T00:00:00+07:00
+title: "Xoilac TV: Xem Bóng Đá Trực Tiếp Tốc Độ Cao, Miễn Phí 100%"
+date: 2025-12-06T00:00:00+07:00
 draft: false
 description: "Khám phá Xoilac TV - Nền tảng xem bóng đá trực tiếp Full HD, miễn phí trọn đời. Cập nhật link xem Ngoại Hạng Anh, C1, V-League tốc độ cao, không giật lag."
 tags: ["Xoilac"]
