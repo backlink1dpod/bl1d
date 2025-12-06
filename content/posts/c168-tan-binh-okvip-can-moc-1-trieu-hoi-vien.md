@@ -1,6 +1,6 @@
 ---
 title: "C168: Tân Binh OKVIP Cán Mốc 1 Triệu Hội Viên Sau 2 Tháng"
-date: 2025-12-6T00:00:00+07:00
+date: 2025-12-06T00:00:00+07:00
 draft: false
 description: "C168, trực thuộc OKVIP, đạt 1 triệu thành viên chỉ sau 2 tháng ra mắt cuối 2025. Nhận ngay máy in POSTEK 200S và iPhone 17 Promax khi đăng ký hôm nay."
 tags: ["C168"]

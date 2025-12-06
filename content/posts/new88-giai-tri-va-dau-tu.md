@@ -1,6 +1,6 @@
 ---
 title: "New88: Sự Kết Hợp Hoàn Hảo Giữa Giải Trí Đỉnh Cao Và Cơ Hội Đầu Tư"
-date: 2025-12-6T00:00:00+07:00
+date: 2025-12-06T00:00:00+07:00
 draft: false
 description: "Khám phá New88 với trải nghiệm live casino điện ảnh 4K và cơ hội đầu tư từ Đá gà, Thể thao sảnh Saba. Tốc độ nạp rút 3 phút, minh bạch và an toàn tuyệt đối."
 tags: ["New88"]
